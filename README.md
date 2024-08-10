@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parham Davin</h1>
-<h3 align="center">I am a C# programmer and .NET developer</h3>
+<h3 align="center">I am a .NET developer</h3>
 <img align="right" , alt="Davin" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parhamdavin&label=Profile%20views&color=0e75b6&style=flat" alt="parhamdavin" /> </p>
-
-- 🌱 I’m currently learning **.Net And React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/parhamdavin](https://github.com/parhamdavin)
 
