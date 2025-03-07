@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Parham Davin!
 
-🚀 **.NET Developer | Backend Engineer | Software Developer**  
-💻 Passionate about building **scalable** and **high-performance** applications using **C#, .NET, and modern web technologies**.  
+🚀 **Backend Engineer | Software Developer**  
+🖥️ Passionate about building **scalable** and **high-performance** applications using **C#, .NET, Golang, and modern web technologies**.  
 🌱 Constantly learning **new technologies** and improving **code performance & security**.  
 
 ---
@@ -12,11 +12,12 @@
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
-### 🛢️ Databases & Cloud
+### 🟢 Databases & Cloud
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
@@ -44,10 +45,10 @@
 
 ---
 
-
 ## 🌍 Let's Connect!
 🔗 [LinkedIn](https://linkedin.com/in/parhamdavin)  
 🔗 [Twitter](https://twitter.com/parhamdavin)  
 🔗 [Personal Website](https://parhamdavin.dev)  
 
-💬 Feel free to reach out for **collaborations, project discussions, or just a tech chat!** 🚀  
+💬 Feel free to reach out for **collaborations, project discussions, or just a tech chat!** 🚀
+
